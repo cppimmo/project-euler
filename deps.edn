@@ -1,0 +1,4 @@
+{:deps
+ {
+  org.clojure/math.combinatorics {:mvn/version "0.2.0"}
+  }}
